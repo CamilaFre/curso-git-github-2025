@@ -3,3 +3,7 @@ esse arquivo contem comandos secundarios para git
 01. primeiro comando 
 02. segundo comando
 03. terceiro comando
+
+#comandos mais genéricos
+- comandos estranhos
+
