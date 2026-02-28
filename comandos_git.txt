@@ -8,7 +8,7 @@ git log -> mostra todo o histórico de commit
 
 1. cria o diretório do projeto
 2. iniciar o git dentro do diretório criado (git init .)
-3. edita o cria arquivos
+3. edita ou cria arquivos
 4. git status
 5. git add <nome do arquivo>
 6. git status
@@ -16,7 +16,7 @@ git log -> mostra todo o histórico de commit
 8. git status
 9. volta para o passo 3
 
-
+Antes de começar a trabalhar dar um git status, e depois um git diff
 
 
 
