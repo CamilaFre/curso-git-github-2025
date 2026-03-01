@@ -4,3 +4,14 @@
 
 Um curso para iniciantes para aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub.
 
+
+
+---
+
+
+
+Pessoas participantes:
+
+
+
+* Camila
