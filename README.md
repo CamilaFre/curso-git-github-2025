@@ -1,1 +1,6 @@
-# Curso TMW Git & GitHub 2025
+# Curso TMW Git \& GitHub 2025
+
+
+
+Um curso para iniciantes para aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub.
+
