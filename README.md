@@ -4,6 +4,10 @@
 
 Um curso para iniciantes para aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub.
 
+Segue o link:
+
+[Curso Git 2025] https://youtube.com/@teomewhy
+
 
 
 ---
