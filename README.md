@@ -8,6 +8,9 @@ Segue o link:
 
 [Curso Git 2025] https://youtube.com/@teomewhy
 
+Além do nosso YT, se ligue no site!
+
+[teomewhy.org] (https://teomewhy.org/schedule)
 
 
 ---
